@@ -45,3 +45,5 @@ footer{padding:34px;text-align:center;background:#3f4739;color:#e3e5df;font-size
 #cerimonia,#local,#traje,#estacionamento,#acesso,#fotos{scroll-margin-top:90px}
 
 .before-section{background:var(--paper);padding-bottom:80px}.organization{background:var(--paper)}.organization-grid{max-width:900px;margin:42px auto 0;display:grid;grid-template-columns:repeat(2,1fr);gap:20px}.organization-grid article{padding:36px 30px;border:1px solid rgba(98,109,89,.22);background:var(--paper);text-align:center}.org-number{font:500 1rem "Cormorant Garamond";letter-spacing:.18em;color:var(--gold);margin-bottom:8px}.organization-grid h3{font-size:2rem;color:var(--sage-dark);margin:0 0 12px;font-weight:500}.organization-grid p{font-size:.86rem;max-width:390px}.after-section{background:var(--sage-light);padding-bottom:80px}#antes,#historia,#dia,#organizacao,#lembretes,#depois,#fotos,#presentes{scroll-margin-top:90px}@media(max-width:760px){.organization-grid{grid-template-columns:1fr}}
+
+.thank-you-section{padding-top:82px;padding-bottom:88px}.thank-you-section .lead{max-width:850px}.thank-you-section .btn{margin-top:18px}
